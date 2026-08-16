@@ -29,11 +29,11 @@ Ugosikllo 是一个 **AI 生态数字资产展示与对接平台**：
 
 **首页**
 
-![首页](screenshots/home-top.png)
+![首页](screenshots/home.png)
 
 **商品市场**
 
-![商品市场](screenshots/home-market.png)
+![商品市场](screenshots/market.png)
 
 **商品详情**
 
@@ -60,21 +60,6 @@ Ugosikllo 是一个 **AI 生态数字资产展示与对接平台**：
 4. **发布作品**：注册开发者账号 → 填写商品信息 → 提交审核 → 上架展示
 5. **参与炫技**：发布你的 AI 作品动态，让更多人看到
 
-## 🛠️ 技术栈
-
-- **前端**：Next.js 16（App Router + TypeScript）+ 原生 CSS（DeepSeek 极简大气风）
-- **后端**：Next.js Route Handler + Prisma ORM
-- **数据库**：SQLite（开发期，可切换 PostgreSQL）
-- **部署**：Docker / PM2 + Nginx
-
-## 📦 本地运行
-
-```bash
-npm install
-npx prisma migrate dev
-npm run dev
-# 打开 http://localhost:3000
-```
 
 ## ⚠️ 说明
 
