@@ -60,4 +60,4 @@ npm run dev
 
 ---
 
-**Ugosikllo · AIUGOOE 生态 · 铀构（丽江）互联网科技有限公司**
+**Ugosikllo · 让 AI 能力自由流通**
