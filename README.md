@@ -27,7 +27,33 @@ Ugosikllo 是一个 **AI 生态数字资产展示与对接平台**：
 
 ## 🖼️ 界面预览
 
-![Ugosikllo 首页](screenshots/home.png)
+**首页**
+
+![首页](screenshots/home-top.png)
+
+**商品市场**
+
+![商品市场](screenshots/home-market.png)
+
+**商品详情**
+
+![商品详情](screenshots/product.png)
+
+**炫技社区**
+
+![炫技社区](screenshots/feed.png)
+
+**发布作品**
+
+![发布作品](screenshots/publish.png)
+
+**我的作品**
+
+![我的作品](screenshots/mine.png)
+
+**管理后台**
+
+![管理后台](screenshots/admin.png)
 
 ## 🚀 快速使用
 
